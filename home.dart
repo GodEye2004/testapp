@@ -50,7 +50,7 @@ class _HomeState extends State<Home> {
               style: TextStyle(
                 fontSize: 20.0,
                 fontWeight: FontWeight.bold,
-                color: Colors.black,
+                color: Colors.red,
               ),
             ),
             const SizedBox(height: 20.0,),
